@@ -44,7 +44,7 @@ class FindSecretPoint{
         return arr;
     }
 
-    public static int[] ask (int x,int y)
+    public static int[] ask (int x, int y)
     {
         int[] secretPoint = {5,5};
         int[] feedback = {0,0};
